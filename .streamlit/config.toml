@@ -1,0 +1,4 @@
+[theme]
+# Colour for selections and other highlights (Streamlit's default is red,
+# which reads as an error). This is Streamlit's own blue.
+primaryColor = "#1c83e1"
